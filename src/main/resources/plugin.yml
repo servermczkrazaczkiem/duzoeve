@@ -1,0 +1,14 @@
+name: Eventowki
+version: 2.0.0
+main: pl.eventowki.EventowkiPlugin
+api-version: '26.1'
+description: Pakiet 16 przedmiotow eventowych
+commands:
+  eventitems:
+    aliases: [eventowki]
+    description: Wydawanie przedmiotow eventowych
+    usage: /eventitems <id|all|lista> [nick] [ilosc]
+    permission: eventitems.admin
+permissions:
+  eventitems.admin:
+    default: op

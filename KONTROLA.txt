@@ -1,0 +1,5 @@
+KONTROLA PACZKI
+
+Wykonano: parsowanie pom.xml, plugin.yml i config.yml; zgodność nazwy klasy i ścieżki; liczba 16 identyfikatorów; sprawdzenie braku starych nazw cząsteczek i Player.setRotation; integralność ZIP.
+NIE wykonano: kompilacja Java, mvn verify, uruchomienie Paper, testy mechanik/bezpieczeństwa. W środowisku nie ma JDK ani Mavena.
+Listę testów do wykonania zawiera TESTY.md.

@@ -1,0 +1,10 @@
+# Po zmianie konfiguracji wykonaj pelny restart serwera.
+grenade:
+  radius: 6.0
+  # Silniejszy odrzut; dwukrotna predkosc nie oznacza dokladnie dwukrotnej odleglosci.
+  horizontal-strength: 3.0
+  vertical-strength: 0.8
+pumpkin:
+  radius: 5.0
+hook:
+  strength: 2.0
